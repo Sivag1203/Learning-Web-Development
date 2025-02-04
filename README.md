@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome to My Learning Repository 🌟</h1>
 
 <p align="center">
-  This is a space where you will find my growth journey, experiments, and discoveries as I learn and explore the endless world of technology. 🚀✨
+  This is a space where you will find my journey, experiments, and discoveries as I learn and explore the endless world of technology. 🚀✨
 </p>
 
 <div align="center">
