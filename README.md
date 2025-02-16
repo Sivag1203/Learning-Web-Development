@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" alt="Learning" width="300"/>
+  <img src="https://tenor.com/bKpgX.gif" alt="Learning" width="300"/>
 </div>
 
 <p align="center">
